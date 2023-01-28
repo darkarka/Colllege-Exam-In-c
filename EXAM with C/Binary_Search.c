@@ -44,7 +44,8 @@ int main(){
     }
 
     printf("\n");
-
+    printf(" %d is the smallest element \n",arr[0]);
+    printf(" %d is the largest element \n",arr[arr_size-1]);
     printf("Enter a key to search : ");
     scanf(" %d ",&key);
 
