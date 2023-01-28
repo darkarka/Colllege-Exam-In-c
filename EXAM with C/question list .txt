@@ -1,0 +1,12 @@
+1. ~Bubble Sort~
+2. Quick Sort
+3. Merge Sort
+4. Merge of Two array 
+5. Search
+6. Binary Serach 
+7. BST
+8. stack 
+9. queue 
+10. Stack Using Link list
+11. TOH
+12. 
